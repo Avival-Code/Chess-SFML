@@ -15,4 +15,4 @@ Things that are still missing on this game:
 
 I'll implement the remaining features and upload changes as fast as I can.
 
-********* These projects are basically for me to practice my C++ and just gain experience making larger things. Feel free to peruse my stuff and leave any comments. ***********
+********* These projects are basically for me to practice my C++ and just gain experience making larger things. Feel free to peruse my stuff and pm me if you have any questions. ***********
